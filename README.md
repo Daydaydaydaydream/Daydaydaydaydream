@@ -1,18 +1,27 @@
-## Hi there 👋
+### Hey 👋, I'm fengjingzhe
 
-<!--
-**Daydaydaydaydream/Daydaydaydaydream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tools & Status:**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
+<code><img height="30" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
 
-Here are some ideas to get you started:
+<table cellspacing="0" cellpadding="0">
+  <tr align="center" valign="middle">
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=Daydaydaydaydaydream&count_private=true"></td>
+    <td><img  src="https://github-readme-streak-stats.herokuapp.com?user=Daydaydaydaydaydream"></td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Alumni or Colleagues**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daydaydaydaydream)
+- :walking: 2019-2023, Days at the [Beijing Institute of Technology University](https://www.bit.edu.cn/)
+- :running: 2023-now, working at [Yunhua](https://www.yuanhuatech.com/index.aspx) as a software engineer
+
+**Talking about Personal Stuffs:**
+
+- This guy was lazy and didn't leave anything behind
+
+**Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project with me.**
