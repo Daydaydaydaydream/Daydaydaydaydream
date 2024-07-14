@@ -3,15 +3,12 @@
 **Tools & Status:**
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
 <code><img height="30" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
     <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=Daydaydaydaydaydream&count_private=true"></td>
-    <td><img  src="https://github-readme-streak-stats.herokuapp.com?user=Daydaydaydaydaydream"></td>
   </tr>
 </table>
 
