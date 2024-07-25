@@ -14,11 +14,9 @@
 
 **Alumni or Colleagues**
 
-- :walking: 2019-2023, Days at the [Beijing Institute of Technology University](https://www.bit.edu.cn/)
-- :running: 2023-now, working at [Yunhua](https://www.yuanhuatech.com/index.aspx) as a software engineer
+-  2019-2023, Days at the [Beijing Institute of Technology University](https://www.bit.edu.cn/)
+-  2023-now, working at [Yunhua](https://www.yuanhuatech.com/index.aspx) as a software engineer
 
 **Talking about Personal Stuffs:**
 
 - This guy was lazy and didn't leave anything behind
-
-**Please feel free to contact me via lanlingock [AT] gmail [dot] com if you want to do project with me.**
