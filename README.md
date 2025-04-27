@@ -15,7 +15,8 @@
 **Alumni or Colleagues**
 
 -  2019-2023, Days at the [Beijing Institute of Technology University](https://www.bit.edu.cn/)
--  2023-now, working at [Yunhua](https://www.yuanhuatech.com/index.aspx) as a software engineer
+-  2023-2025, working at [Yuanhua](https://www.yuanhuatech.com/index.aspx) as a software engineer
+-  2025-now，working at [HuaXiJingChuang](https://www.hxmedbot.com/) as a software engineer
 
 **Talking about Personal Stuffs:**
 
